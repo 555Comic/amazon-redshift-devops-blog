@@ -1,10 +1,10 @@
 #Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #SPDX-License-Identifier: MIT-0
 Parameters:
-  TestRedshiftUsername:
+  555Comic:
     Type: String
     Description: The username of the test Redshift cluster
-  TestRedshiftPassword:
+  TestPassword:
     Type: String
     Description: The password of the test Redshift cluster
     NoEcho: true
